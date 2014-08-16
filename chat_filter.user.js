@@ -374,7 +374,7 @@ var TPP_COMMANDS = [
     "left", "right", "up", "down",
     "start", "select",
     "a", "b",
-    "l", "!raffle",
+    "anything", "!raffle",
     "democracy", "anarchy", "wait"
 ];
 
